@@ -1,0 +1,9 @@
+# Goal
+TargetPose target
+---
+# Result
+bool success
+float32 final_distance_error
+---
+# Feedback
+float32 distance_remaining

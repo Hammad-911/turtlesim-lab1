@@ -1,0 +1,8 @@
+# Goal
+float32 side_length
+---
+# Result
+bool success
+---
+# Feedback
+uint8 current_side
